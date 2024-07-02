@@ -5,3 +5,5 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+HackerNews API: https://github.com/HackerNews/API
